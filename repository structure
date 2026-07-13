@@ -1,0 +1,7 @@
+Sequence-Detector-1011-Non-Overlapping
+│
+├── sequence_detector.v
+├── sequence_detector_tb.v
+├── waveform.png
+├── README.md
+└── LICENSE
